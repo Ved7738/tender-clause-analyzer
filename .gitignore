@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Ignore local files and models
+*.ttf
+*.tar.bz2
+*.pdf
+
+# Ignore OS metadata
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+streamlit
+PyPDF2
+python-docx
+reportlab
+pandas
+joblib
+scikit-learn
+sentence-transformers
+transformers
+torch
+openai>=1.40.0
+python-dotenv
